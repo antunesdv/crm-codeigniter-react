@@ -2,6 +2,12 @@
 Crm realizado utilizando codeigniter para back end e react para front end
 <br/>
 
+Melhorias futuras:
+- Implementar login seguro
+- Fazer funcionar a busca Dinâmica na listagem de Alunos ( já funciona em laravel)
+- Automatizar o Dashboard ( já funciona em laravel )
+
+
 ## Sobre o Projeto
 Sistema de Gerenciamento de Alunos
 Bem-vindo ao meu Sistema de Gerenciamento de Alunos! Este é um projeto desenvolvido para facilitar o processo de organização e servindo também de testes para entrar na Empresa que gostaria.
