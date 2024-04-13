@@ -47,6 +47,13 @@ git clone https://github.com/your_username_/Project-Name.git
 npm install
 ```
 
+Ativar APACHE e MYSQL no XAMPP
+
+```sh
+php spark serve
+```
+
+
 ### OBS: PARA FUNCIONAR O DATABASE É INDISPENSÁVEL A CRICAO DE UM BANCO COM NOME DE 'database' E IMPORTAR O CÓDIGO ABAIXO]
 
 ```sql
